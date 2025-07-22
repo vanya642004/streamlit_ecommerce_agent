@@ -1,0 +1,6 @@
+streamlit
+pandas
+sqlalchemy
+llama-cpp-python
+langchain
+streamlit-chat
